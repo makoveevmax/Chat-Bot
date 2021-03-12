@@ -1,2 +1,3 @@
-# Chat-Bot
-Simple Chat Bot using Java
+# Chat-Bot on Java
+
+Simple Chat Bot using Java (project form Hyperskill)
